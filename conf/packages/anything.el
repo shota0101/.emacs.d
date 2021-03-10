@@ -1,0 +1,11 @@
+(require 'anything-startup)
+;; c-x c-f での最初のディレクトリを指定したい
+(global-set-key (kbd "C-x C-a") 'anything)
+(global-set-key (kbd "C-x C-d")  'anything-bookmarks)
+(global-set-key (kbd "C-x C-f")  'anything-find-files)
+(global-set-key (kbd "C-x C-t")  'anything-c-etags-select)
+;; (global-set-key (kbd "C-x C-b") 'anything-buffers-list)
+;; (global-set-key (kbd "C-x C-g")  'anything-google-suggest)
+;; (global-set-key (kbd "C-x C-r") 'anything-recentf)
+(global-set-key (kbd "C-x C-j")  'anything-global-mark-ring)
+(global-set-key (kbd "C-x C-v") 'anything-show-kill-ring)

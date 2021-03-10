@@ -1,0 +1,6 @@
+(load "~/.emacs.d/conf/packages/auto-install")
+(load "~/.emacs.d/conf/packages/anything")
+(load "~/.emacs.d/conf/packages/auto-complete")
+(load "~/.emacs.d/conf/packages/color-moccur")
+(load "~/.emacs.d/conf/packages/yasnippet")
+;; (load "~/.emacs.d/conf/packages/hs-minor")
