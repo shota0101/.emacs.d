@@ -111,6 +111,7 @@
 (global-set-key (kbd "<home>")  'back-to-indentation)
 (global-set-key (kbd "<end>")  'move-end-of-line)
 
+(global-set-key (kbd "C-x C-w")  'query-replace) ; デフォルトが打ちにくいので
 
 ;; ------------------------------------------------------------------------------------------
 ;; ファイルを再読込した際に確認をスキップ
