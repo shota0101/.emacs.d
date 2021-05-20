@@ -74,13 +74,11 @@
 (fset 'insert-task
    "[ ] ")
 (global-set-key (kbd "C-h C-n")  'insert-task)
-(global-set-key (kbd "C-h <down>")  'insert-task)
 
 ;; タスクを完了にする
 (fset 'mark-task-as-done
    [home ?\C-s ?\[ right backspace ?x ?\C-f ?\C-f])
-(global-set-key (kbd "C-h C-b")  'mark-task-as-done)
-(global-set-key (kbd "C-h <left>")  'mark-task-as-done)
+(global-set-key (kbd "C-h C-x C-s")  'mark-task-as-done)
 
 ;; 次の行で箇条書き
 (fset 'markdown-hyphen
