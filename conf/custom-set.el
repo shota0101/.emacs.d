@@ -9,10 +9,10 @@
  ;; '(cua-mode t nil (cua-base))
  '(current-language-environment "UTF-8")
  ;; '(custom-enabled-themes (quote (adwaita))) ;; default
- '(custom-enabled-themes (quote (deeper-blue)))
+ ;; '(custom-enabled-themes (quote (deeper-blue)))
  ;; '(custom-enabled-themes (quote (manoj-dark)))
  ;; '(custom-enabled-themes (quote (tsdh-dark)))
- ;; '(custom-enabled-themes (quote (wombat)))
+ '(custom-enabled-themes (quote (wombat)))
  '(display-time-mode t)
  '(save-place t nil (saveplace))
  '(send-mail-function (quote smtpmail-send-it))
