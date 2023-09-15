@@ -1,0 +1,455 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8 -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("routine1d-template.md"
+ (filename . "~/Documents/git/box/memo/routine1d-template.md")
+ (front-context-string . "ventilation (sho")
+ (rear-context-string)
+ (position . 1))
+("soul-silver.md"
+ (filename . "~/Documents/git/box/memo/works/game/pokemon/soul-silver.md")
+ (front-context-string . "# ソウルシルバー\n\n- 男性主")
+ (rear-context-string)
+ (position . 1))
+("rename-.sh"
+ (filename . "~/Documents/git/box/program/task/rename-.sh")
+ (front-context-string . "#!/bin/sh\n\n. \"${")
+ (rear-context-string)
+ (position . 1))
+("push-nexus.sh"
+ (filename . "~/Documents/git/box/program/task/push-nexus.sh")
+ (front-context-string . "#!/bin/sh\n\nforma")
+ (rear-context-string)
+ (position . 1))
+("pokemon-party.md"
+ (filename . "~/Documents/git/box/memo/works/game/pokemon/pokemon-party.md")
+ (front-context-string . "# 手持ち\n\n## クリスタル\n")
+ (rear-context-string)
+ (position . 1))
+("dropbox.md"
+ (filename . "~/Documents/git/box/memo/dropbox.md")
+ (front-context-string . "sh dropbox.sh b\n")
+ (rear-context-string)
+ (position . 1))
+("bgm.md"
+ (filename . "~/Documents/git/box/memo/bgm.md")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("crop.json"
+ (filename . "~/Documents/crop.json")
+ (front-context-string . "\n  \"y\": \"315\",\n ")
+ (rear-context-string)
+ (position . 14))
+("upload-movie.sh"
+ (filename . "~/Documents/git/box/program/task/upload-movie.sh")
+ (front-context-string . "#!/bin/bash\n\nfun")
+ (rear-context-string)
+ (position . 1))
+("adjust-date.md"
+ (filename . "/Volumes/GoogleDrive/My Drive/offline/note/adjust-date.md")
+ (front-context-string . "# 日数調整メモ\n\n- char")
+ (rear-context-string)
+ (position . 1))
+("rate.sh"
+ (filename . "~/Documents/git/box/program/task/rate.sh")
+ (front-context-string . "max=141\nmin=136\n")
+ (rear-context-string . "----\n\n# exit 0\n\n")
+ (position . 922))
+("violet.md"
+ (filename . "~/Documents/git/box/memo/works/game/pokemon/violet.md")
+ (front-context-string . "# ポケモンSV\n\n- 最初の街")
+ (rear-context-string)
+ (position . 1))
+("todo.sh"
+ (filename . "~/Documents/git/box/program/task/todo.sh")
+ (front-context-string . "#!/bin/sh\n\ncd '/")
+ (rear-context-string)
+ (position . 1))
+("generate-sample.sh"
+ (filename . "~/Documents/git/milk-notification/generate-sample.sh")
+ (front-context-string . "npm run generate")
+ (rear-context-string . "時30分に粉ミルクをあげた場合\n")
+ (position . 107))
+("series-movie.sh"
+ (filename . "~/Documents/git/box/program/task/series-movie.sh")
+ (front-context-string . "#!/bin/sh\n\ncd '/")
+ (rear-context-string)
+ (position . 1))
+("alfred-camera.sh"
+ (filename . "~/Documents/git/life-plan/script/alfred-camera.sh")
+ (front-context-string . "#!/bin/sh\n\nwhile")
+ (rear-context-string)
+ (position . 1))
+("small-talk.md"
+ (filename . "/Volumes/GoogleDrive/My Drive/offline/note/small-talk.md")
+ (front-context-string . "# small talk\n\n- ")
+ (rear-context-string)
+ (position . 1))
+("merukari_メルカリのテンプレート.md"
+ (filename . "~/Documents/git/life-plan/memo/merukari_メルカリのテンプレート.md")
+ (front-context-string . "【商品情報】\n\n\n【補足】\n・即")
+ (rear-context-string)
+ (position . 1))
+("movie-controller.js"
+ (filename . "/Volumes/GoogleDrive/My Drive/c/js/movie-controller.js")
+ (front-context-string . "const volumeUnit")
+ (rear-context-string)
+ (position . 1))
+("address-book.md"
+ (filename . "~/Documents/git/box/memo/address-book.md")
+ (front-context-string . "# address-book\n\n")
+ (rear-context-string)
+ (position . 1))
+("eBookJapan.md"
+ (filename . "~/Documents/git/box/memo/works/book/eBookJapan.md")
+ (front-context-string . "# eBookJapan\n\n- ")
+ (rear-context-string)
+ (position . 1))
+("zip.sh"
+ (filename . "~/Documents/git/box/program/task/zip.sh")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("git.sh"
+ (filename . "~/Documents/git/company/memo/git.sh")
+ (front-context-string . "#!/bin/bash\n\n# P")
+ (rear-context-string)
+ (position . 1))
+("emacs"
+ (filename . "~/.emacs.d/README.md")
+ (front-context-string . "# emacs\n\nついつい忘れて")
+ (rear-context-string)
+ (position . 1))
+("baggage-list"
+ (filename . "~/Documents/git/box/memo/荷物.md")
+ (front-context-string . "# 荷物チェックリスト\n\n- [")
+ (rear-context-string)
+ (position . 1))
+("出生後.md"
+ (filename . "~/Documents/git/life-plan/memo/child/出生後.md")
+ (front-context-string . "# 出生後\n\n- 予防接種スケジ")
+ (rear-context-string)
+ (position . 1))
+("push-fireHD10.bash"
+ (filename . "~/Documents/git/box/program/task/push-fireHD10.bash")
+ (front-context-string . "#!/bin/sh\n\nsh da")
+ (rear-context-string)
+ (position . 1))
+("func.bash"
+ (filename . "~/Documents/git/box/program/task/util/func.bash")
+ (front-context-string . "#!/bin/bash\n\nfun")
+ (rear-context-string)
+ (position . 1))
+("manga.sh"
+ (filename . "~/Documents/git/box/program/task/manga.sh")
+ (front-context-string . "#!/bin/sh\n\npath=")
+ (rear-context-string)
+ (position . 1))
+("ある中国人密航者の犯罪.md"
+ (filename . "~/Documents/git/box/memo/works/book/ある中国人密航者の犯罪.md")
+ (front-context-string . "# ある中国人密航者の犯罪\n\n-")
+ (rear-context-string)
+ (position . 1))
+("later.md"
+ (filename . "/Volumes/GoogleDrive/My Drive/offline/note/later.md")
+ (front-context-string . "- [ジャズでよく聞く音楽用語の")
+ (rear-context-string)
+ (position . 1))
+("人名の世界史.md"
+ (filename . "~/Documents/git/box/memo/人名の世界史.md")
+ (front-context-string . "# 人名の世界史\n\n## はじめ")
+ (rear-context-string)
+ (position . 1))
+("ゴキちゃんグッバイの場所.md"
+ (filename . "~/Documents/git/life-plan/memo/home/ゴキちゃんグッバイの場所.md")
+ (front-context-string . "2022-04-04\n\n- [x")
+ (rear-context-string)
+ (position . 1))
+("push-pixel.sh"
+ (filename . "~/Documents/git/box/program/task/push-pixel.sh")
+ (front-context-string . "#!/bin/sh\n\nsh da")
+ (rear-context-string)
+ (position . 1))
+("upload-local-file.sh"
+ (filename . "~/Documents/git/box/program/task/upload-local-file.sh")
+ (front-context-string . "#!/bin/sh\n\nif [ ")
+ (rear-context-string)
+ (position . 1))
+("出産後の手続き.md"
+ (filename . "~/Documents/git/life-plan/memo/child/TODO_出産後の手続き/出産後の手続き.md")
+ (front-context-string . "# 出産後の手続き\n\n- 参考\n")
+ (rear-context-string)
+ (position . 1))
+("push-livedoor.sh"
+ (filename . "~/Documents/git/box/program/task/push-livedoor.sh")
+ (front-context-string . "#!/bin/sh\n\ncd '/")
+ (rear-context-string)
+ (position . 1))
+("p1-convert.sh"
+ (filename . "~/Documents/git/box/program/task/p1-convert.sh")
+ (front-context-string . "#!/bin/bash\n\n. \"")
+ (rear-context-string)
+ (position . 1))
+("保育園.md"
+ (filename . "~/Documents/git/life-plan/memo/child/保育園.md")
+ (front-context-string . "# 保育園関連\n- [保育園・認")
+ (rear-context-string)
+ (position . 1))
+("pixel-push-and-pull.bash"
+ (filename . "~/Documents/git/box/program/task/pixel-push-and-pull.bash")
+ (front-context-string . "#!/bin/sh\n\nif [ ")
+ (rear-context-string)
+ (position . 1))
+("android-screen-record.sh"
+ (filename . "~/Documents/git/box/program/task/android-screen-record.sh")
+ (front-context-string . "#!/bin/sh\n\ncd ${")
+ (rear-context-string)
+ (position . 1))
+("dollar.md"
+ (filename . "~/Documents/git/box/memo/dollar.md")
+ (front-context-string . "# 外貨\n\n## ドル円売買の収")
+ (rear-context-string)
+ (position . 1))
+("condition-record"
+ (filename . "~/Documents/git/condition-record/README.md")
+ (front-context-string . "## 2023年\n\n## 1月ま")
+ (rear-context-string . "から産業医宛の診療情報提供)\n\n")
+ (position . 98))
+("test.sh"
+ (filename . "~/Documents/git/box/program/task/test.sh")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("surf.md"
+ (filename . "/Volumes/GoogleDrive/My Drive/offline/note/surf.md")
+ (front-context-string . "- [痛いニュース(ﾉ∀`) :")
+ (rear-context-string)
+ (position . 1))
+("surf-favorite.md"
+ (filename . "~/Documents/git/box/memo/surf-favorite.md")
+ (front-context-string . "# 気になるページ\n\n## la")
+ (rear-context-string)
+ (position . 1))
+("feedly.sh"
+ (filename . "~/Documents/git/box/program/task/feedly.sh")
+ (front-context-string . "# 最後の記事\n# 干ばつにあえ")
+ (rear-context-string)
+ (position . 12))
+("surf-old.md"
+ (filename . "~/Documents/git/box/memo/surf-old.md")
+ (front-context-string . "# surf-old\n\n## 未")
+ (rear-context-string)
+ (position . 1))
+("super-market.md"
+ (filename . "~/Documents/git/life-plan/memo/super-market.md")
+ (front-context-string . "# スーパーでよく買うものリスト")
+ (rear-context-string)
+ (position . 1))
+("2ch.txt"
+ (filename . "~/Documents/git/box/memo/2ch.txt")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("key-mapping.js"
+ (filename . "~/Documents/git/photo-organizer/js/key-mapping.js")
+ (front-context-string . "const keyMapping")
+ (rear-context-string)
+ (position . 1))
+("サーバ・インフラを支える技術.md"
+ (filename . "~/Documents/git/box/memo/works/book/サーバ・インフラを支える技術.md")
+ (front-context-string . "# サーバ・インフラを支える技術")
+ (rear-context-string)
+ (position . 1))
+("2ch.md"
+ (filename . "~/Documents/git/box/memo/2ch.md")
+ (front-context-string . "# 2ch\n\n- [スク水の股間")
+ (rear-context-string)
+ (position . 1))
+("daigo.md"
+ (filename . "~/Documents/git/box/memo/daigo.md")
+ (front-context-string . "# daigo\n\n- [メンタリ")
+ (rear-context-string)
+ (position . 1))
+("path.txt"
+ (filename . "~/Documents/git/box/memo/path.txt")
+ (front-context-string . "Documents\nDownlo")
+ (rear-context-string)
+ (position . 1))
+("overtime.json"
+ (filename . "~/Documents/git/punch/data/overtime.json")
+ (front-context-string . "[\n    {\n        ")
+ (rear-context-string)
+ (position . 1))
+("terminal.sh"
+ (filename . "~/Documents/git/company/memo/terminal.sh")
+ (front-context-string . "timer_alerter 0 ")
+ (rear-context-string)
+ (position . 1))
+("recipe"
+ (filename . "~/Documents/git/life-plan/memo/recipe/menu.md")
+ (front-context-string . "# レシピメモ\n\n- [風邪のと")
+ (rear-context-string)
+ (position . 1))
+("人月の神話.md"
+ (filename . "~/Documents/git/box/memo/works/book/人月の神話.md")
+ (front-context-string . "# 人月の神話\n\n## 第1章 ")
+ (rear-context-string)
+ (position . 1))
+("abema.md"
+ (filename . "/Volumes/GoogleDrive/My Drive/offline/note/abema.md")
+ (front-context-string . "# abema\n\n## 最後にチ")
+ (rear-context-string)
+ (position . 1))
+("abema-old.md"
+ (filename . "~/Documents/git/box/memo/hiroyuki/abema-old.md")
+ (front-context-string . "# abema-old\n\n- [")
+ (rear-context-string)
+ (position . 1))
+("movie.md"
+ (filename . "~/Documents/git/box/memo/works/movie.md")
+ (front-context-string . "- [#アベプラ【平日よる9時〜")
+ (rear-context-string . "9-66_s99_p5002)\n")
+ (position . 10849))
+("movie-donwload.md"
+ (filename . "~/Documents/git/box/memo/works/movie-donwload.md")
+ (front-context-string . "# ダウンロードする動画リスト\n")
+ (rear-context-string)
+ (position . 1))
+("terminal-private.sh"
+ (filename . "~/Documents/git/box/memo/terminal-private.sh")
+ (front-context-string . "cd ~/Library/App")
+ (rear-context-string)
+ (position . 1))
+("movie-done.md"
+ (filename . "~/Documents/git/box/memo/works/movie-done.md")
+ (front-context-string . "# movie-done\n\n##")
+ (rear-context-string)
+ (position . 1))
+("結婚式メモ.md"
+ (filename . "~/Documents/git/life-plan/wedding/結婚式メモ.md")
+ (front-context-string . "# 平安神宮会館\n\n- [【平安")
+ (rear-context-string)
+ (position . 1))
+("manga.md"
+ (filename . "~/Documents/git/box/memo/works/manga.md")
+ (front-context-string . "# 漫画リスト\n\n## eBoo")
+ (rear-context-string)
+ (position . 1))
+("task.md"
+ (filename . "~/Documents/git/box/memo/task.md")
+ (front-context-string . "- [ ] 防災対策\n  - 水")
+ (rear-context-string)
+ (position . 1))
+("mac-env.md"
+ (filename . "~/Documents/git/company/env/mac-env.md")
+ (front-context-string . "# Macの環境構築用コマンド\n")
+ (rear-context-string)
+ (position . 1))
+("address-list_住所変更リスト.md"
+ (filename . "~/Documents/git/box/memo/住所変更リスト.md")
+ (front-context-string . "# 住所変更リスト\n\n- [x]")
+ (rear-context-string)
+ (position . 1))
+(".zshrc"
+ (filename . "~/.zshrc")
+ (front-context-string . ". ~/shell_settin")
+ (rear-context-string)
+ (position . 1))
+(".zsh_history"
+ (filename . "~/.zsh_history")
+ (front-context-string . "terminal-notifie")
+ (rear-context-string)
+ (position . 1))
+("launchd.bash"
+ (filename . "~/Documents/git/box/program/launchd/launchd.bash")
+ (front-context-string . "#!/bin/bash\n\ncd ")
+ (rear-context-string)
+ (position . 1))
+("menu.md"
+ (filename . "~/Documents/git/life-plan/memo/recipe/menu.md")
+ (front-context-string . "# レシピメモ\n\n- [風邪のと")
+ (rear-context-string)
+ (position . 1))
+("wishlist-shota.md"
+ (filename . "~/Documents/git/life-plan/memo/shopping/wishlist-shota.md")
+ (front-context-string . "# 翔太の欲しい物リスト\n\n- ")
+ (rear-context-string)
+ (position . 1))
+("chrome-theme.md"
+ (filename . "~/Documents/git/box/memo/chrome-theme.md")
+ (front-context-string . "# chrome theme\n\n")
+ (rear-context-string)
+ (position . 1))
+("vimium.sh"
+ (filename . "~/Documents/git/company/memo/vimium.sh")
+ (front-context-string . "# 参考 : https://q")
+ (rear-context-string)
+ (position . 1))
+("appearance.el"
+ (filename . "~/.emacs.d/conf/appearance.el")
+ (front-context-string . "alpha . 0.65) ; ")
+ (rear-context-string . "eeper-blue\n    (")
+ (position . 118))
+("music.md"
+ (filename . "~/Documents/git/box/memo/music.md")
+ (front-context-string . "# 音楽&動画\n\n- ポケモン不")
+ (rear-context-string)
+ (position . 1))
+("download.md"
+ (filename . "~/Documents/git/box/memo/download.md")
+ (front-context-string . "# ダウンロード用のページ\n\n-")
+ (rear-context-string)
+ (position . 1))
+("life-plan.js"
+ (filename . "~/Documents/git/life-plan/life-plan.js")
+ (front-context-string . "let Income = req")
+ (rear-context-string)
+ (position . 1))
+("box1.md"
+ (filename . "~/Documents/git/box/memo/temp/box1.md")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("box2.md"
+ (filename . "~/Documents/git/box/memo/temp/box2.md")
+ (front-context-string . "平安神宮会館 土本様\n\nお世話に")
+ (rear-context-string)
+ (position . 1))
+("box3.md"
+ (filename . "~/Documents/git/box/memo/temp/box3.md")
+ (front-context-string . "ASUS MB16ACE モバイ")
+ (rear-context-string)
+ (position . 1))
+("present.md"
+ (filename . "~/Documents/git/box/memo/present.md")
+ (front-context-string . "# プレゼントリスト\n\n## ケ")
+ (rear-context-string)
+ (position . 1))
+("book.md"
+ (filename . "~/Documents/git/box/memo/works/book/book.md")
+ (front-context-string . "# book\n\n- 技術力向上系")
+ (rear-context-string)
+ (position . 1))
+("hiroyuki.md"
+ (filename . "~/Documents/git/box/memo/hiroyuki.md")
+ (front-context-string . "# hiroyuki\n\n- [Y")
+ (rear-context-string)
+ (position . 1))
+("shell_settings"
+ (filename . "~/Documents/git/shell_settings/init.sh")
+ (front-context-string . ". ~/Documents/git/")
+ (rear-context-string)
+ (position . 1))
+("init.lua"
+ (filename . "~/.hammerspoon/init.lua")
+ (front-context-string . "-- 関数定義\n\nlocal f")
+ (rear-context-string)
+ (position . 1))
+("init.el"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . "\n;; ~/.emacsが存在す")
+ (rear-context-string)
+ (position . 1))
+)
