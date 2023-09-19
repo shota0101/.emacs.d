@@ -48,8 +48,8 @@
  (rear-context-string)
  (position . 1))
 ("adjust-date.md"
- (filename . "/Volumes/GoogleDrive/My Drive/offline/note/adjust-date.md")
- (front-context-string . "# 日数調整メモ\n\n- char")
+ (filename . "~/Documents/git/box/memo/adjust-date.md")
+ (front-context-string . "# 日数調整メモ\n\n- rene")
  (rear-context-string)
  (position . 1))
 ("rate.sh"
@@ -223,8 +223,8 @@
  (rear-context-string)
  (position . 1))
 ("surf.md"
- (filename . "/Volumes/GoogleDrive/My Drive/offline/note/surf.md")
- (front-context-string . "- [痛いニュース(ﾉ∀`) :")
+ (filename . "~/Documents/git/box/memo/surf.md")
+ (front-context-string . "- [Xユーザーのひろゆきさん:")
  (rear-context-string)
  (position . 1))
 ("surf-favorite.md"
@@ -298,8 +298,8 @@
  (rear-context-string)
  (position . 1))
 ("abema.md"
- (filename . "/Volumes/GoogleDrive/My Drive/offline/note/abema.md")
- (front-context-string . "# abema\n\n## 最後にチ")
+ (filename . "~/Documents/git/box/memo/abema.md")
+ (front-context-string . "- [東京夜景 - シーズン1 ")
  (rear-context-string)
  (position . 1))
 ("abema-old.md"
