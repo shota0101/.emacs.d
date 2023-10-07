@@ -223,13 +223,13 @@
  (rear-context-string)
  (position . 1))
 ("surf.md"
- (filename . "~/Documents/git/box/memo/surf.md")
- (front-context-string . "- [Xユーザーのひろゆきさん:")
+ (filename . "~/Dropbox/memo/surf.md")
+ (front-context-string)
  (rear-context-string)
  (position . 1))
 ("surf-favorite.md"
- (filename . "~/Documents/git/box/memo/surf-favorite.md")
- (front-context-string . "# 気になるページ\n\n## la")
+ (filename . "~/Dropbox/memo/surf-favorite.md")
+ (front-context-string)
  (rear-context-string)
  (position . 1))
 ("feedly.sh"
