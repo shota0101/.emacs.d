@@ -216,8 +216,10 @@
 ;; ------------------------------------------------------------------------
 ;; @ backup
 
-;; ;; 変更ファイルのバックアップ
-;; (setq make-backup-files nil)
+;; *.~ とかのバックアップファイルを作らない
+(setq make-backup-files nil)
+;; .#* とかのバックアップファイルを作らない
+;; (setq auto-save-default nil)
 
 ;; ;; 変更ファイルの番号つきバックアップ
 ;; (setq version-control nil)
