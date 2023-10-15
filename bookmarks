@@ -2,7 +2,17 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("routine1d-template.md"
+(("routine1d.md"
+ (filename . "~/program-temp/routine1d.md")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("water.txt"
+ (filename . "~/program-temp/water.txt")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("routine1d-template.md"
  (filename . "~/Documents/git/box/memo/routine1d-template.md")
  (front-context-string . "ventilation (sho")
  (rear-context-string)
