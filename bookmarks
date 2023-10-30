@@ -149,7 +149,7 @@
  (position . 1))
 ("func.bash"
  (filename . "~/Documents/git/box/program/task/util/func.bash")
- (front-context-string . "#!/bin/bash\n\nfun")
+ (front-context-string . "#!/bin/bash\n\n# ↓")
  (rear-context-string)
  (position . 1))
 ("manga.sh"
