@@ -264,7 +264,7 @@
  (position . 1))
 ("key-mapping.js"
  (filename . "~/Documents/git/photo-organizer/js/key-mapping.js")
- (front-context-string . "const keyMapping")
+ (front-context-string . "var keyMapping =")
  (rear-context-string)
  (position . 1))
 ("サーバ・インフラを支える技術.md"
