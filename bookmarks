@@ -2,7 +2,12 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("routine1d.md"
+(("mac-rsync.sh"
+ (filename . "~/Documents/git/box/program/task/mac-rsync.sh")
+ (front-context-string . "#!/bin/bash\n\npms")
+ (rear-context-string)
+ (position . 1))
+("routine1d.md"
  (filename . "~/program-temp/routine1d.md")
  (front-context-string)
  (rear-context-string)
